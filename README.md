@@ -14,7 +14,7 @@ This repository contains instructions and code that can interact with Stellarium
 | Notebook | Function |
 | ----------- | ----------- |
 | Stellarium_API.ipynb | Used to retrieve the data |
-| dfGathering | Used to combine the retrieved data |
+| dfGathering.ipynb | Used to combine the retrieved data |
 
 
 #### Stellarium?
