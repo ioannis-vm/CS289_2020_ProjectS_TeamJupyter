@@ -33,7 +33,7 @@ Our code requires installing the following packages. We also list the version of
 
 
 ## How to set things up
-Using the jupyter notebooks provided herein requires having Python 3 and Stellarium installed. 
+Using the jupyter notebooks provided herein require having Python 3 and Stellarium installed. 
 
 [Get Stellarium here](http://stellarium.org/)
 
