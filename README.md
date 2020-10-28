@@ -80,12 +80,14 @@ The data that we gathered were the following:
 
 The dataset can be used to apply a great variety of machine learning techniques, ranging from simple regression to nonlinear model fitting and neural networks, to manage to predict the observed parameters at any given universal time.
 
-Our final dataset is stored in the form of a pandas dataframe in binary form (using pickle), and it takes up XXX Gb. Converting it to text to store it as a CSV would drastically (and unnecessarily) increase its size. It is too large to be hosted on GitHub, but it is available for public use and can be accessed  [here]().
+Our final dataset is stored in the form of a pandas dataframe in binary form (using pickle), and it takes up approx. 1.3 Gb. It is too large to be hosted on GitHub, but it is available for public use and can be accessed  [here](https://drive.google.com/drive/folders/1bAh88l_ovvsFyiuTCa4QB9e12tRg6LWz?usp=sharing).
 It can be loaded back on memory with the following python line:
 
 ```
 pickle.load(open('Historic_Observations.df', 'rb'))
 ```
+
+It is also available in CSV.
 
 > Happy astronomical exploration, and keep looking up!
 
